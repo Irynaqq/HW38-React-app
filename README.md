@@ -13,7 +13,7 @@
 
 ```bash
 # Клонувати репозиторій
-git clone https://github.com/ТВІЙ_НІК/my-react-app.git
+git clone https://github.com/Irynaqq/HW38-React-app
 
 cd my-react-app
 
